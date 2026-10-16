@@ -1,0 +1,6 @@
+* -filter -text
+*.unityweb -diff -merge
+*.part?? -diff -merge
+*.bundle -diff -merge
+*.png -diff -merge
+*.ico -diff -merge
